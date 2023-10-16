@@ -1,0 +1,8 @@
+This is github and get learning session.
+
+creating a repositary and the coding file in it.
+
+step1: create rep in github 
+step2: open an terminal tab in vs code and write an comment " git init " and press enter
+step3: write an comment " git remote add origin https://github.com/Sathish-1908/createRepInGit.git " and press enter.
+step4: write an comment "

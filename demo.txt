@@ -5,4 +5,25 @@ creating a repositary and the coding file in it.
 step1: create rep in github 
 step2: open an terminal tab in vs code and write an comment " git init " and press enter
 step3: write an comment " git remote add origin https://github.com/Sathish-1908/createRepInGit.git " and press enter.
-step4: write an comment "
+step4: write an comment " git remote -v " and press enter.
+step5: write an comment " git add . " and press enter.
+step6: write an comment " git commit -m "first commit" " and press enter.
+(note if error pop ip like this " ")
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'DELL@DESKTOP-9OGTTTV.(none)')
+
+
+
+
+

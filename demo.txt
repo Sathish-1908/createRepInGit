@@ -23,6 +23,11 @@ Omit --global to set the identity only in this repository.
 
 fatal: unable to auto-detect email address (got 'DELL@DESKTOP-9OGTTTV.(none)')
 
+finish above method and repeat step5 and step6.
+
+step7: write an comment " git branch -M main " and press enter.
+step8: write an comment " git push -u origin main " and press enter.
+
 
 
 
